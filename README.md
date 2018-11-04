@@ -13,6 +13,39 @@ Requirements
 How To Solve
 ------------
 
+### Obtain and Display required items in the Safehouse
+Specific trophies need to be obtained and displayed to start the initial puzzle
+
+1. Bain's Guide
+
+   `No Mercy - Normal`
+
+1. The Elephant's Coffer
+
+   `Breakin' Feds - Normal`
+
+1. The Healer's Coffer
+
+   `Golden Grin - Normal`
+   `Henry's Rock - Normal`
+
+1. The Medallion of Perseids
+
+   `Brooklyn Bank - Overkill`
+
+1. The Obsidian Plate
+
+   `Shacklethrone Heist - Normal`
+
+1. The Scribe's Coffer
+
+   `Henry's Rock - Normal`
+
+ * Once you have these, display them and enter the safehouse.
+ * Pickup the medallion and use it to open coffers
+ * Pickup Diamond to the left of the boxes
+ * Use diamon on Guide of Bain (where you got medallion), it should burn
+
 ### Unlock list of achievements in Safehouse
 You need to unlock a list of achievements in safehouse. Once you have all three
 boxes, interact with them to remove them from the box; shoot the piano keys in
