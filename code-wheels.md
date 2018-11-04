@@ -1,6 +1,0 @@
-Outer:  DAGILASWALCHXEAPSHCUZUSUGU
-Middle: IGLSMCAWNVKFXOUBJHTQZREYDP
-Inner:  DEELRURDTECEUTIDUNNTSSEROL
-
- * X/J are interchangeable
- * All wheels wrap around

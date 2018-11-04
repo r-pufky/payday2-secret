@@ -2,7 +2,9 @@ Payday 2 Secret
 ---------------
 Information for solving the secret in PD2.
 
-**SPOILERS**
+**SPOILERS AHEAD**
+
+
 
 Requirements
 ------------
@@ -14,7 +16,7 @@ How To Solve
 ------------
 
 ### Obtain and Display required items in the Safehouse
-Specific trophies need to be obtained and displayed to start the initial puzzle
+Specific trophies need to be obtained and displayed to start the initial puzzle:
 
 1. Bain's Guide
 
@@ -46,15 +48,16 @@ Specific trophies need to be obtained and displayed to start the initial puzzle
  * Pickup Diamond to the left of the boxes
  * Use diamond on Guide of Bain (where you got medallion), it should burn
 
-### Unlock list of achievements in Safehouse
-You need to unlock a list of achievements in safehouse to complete. Once all the
-required display items are done (above), goto the piano in Scarface's office.
+### Unlock list of "Obsidian" achievements in Safehouse
+You need to unlock a list of achievements in safehouse to complete, dictated by
+the Obsidian Tablet. Once all the required display items are done (above), goto
+the piano in Scarface's office and hit the following keys in order.
 
 ![Piano Keys](piano-keys.png)
 
-Interacting with the device will reveal ciphered riddles. These turn out to be
-required achievements to enable the secret. These are listed here with
-translations:
+This will stop the device from rotating. Interacting with the device will reveal
+ciphered riddles. These turn out to be required achievements to enable the
+secret. These are listed here with translations:
 
 1. Diamonds are Forever
 
@@ -106,7 +109,7 @@ translations:
    `Great value rained from the sky and the four thieves opened any packages in
     their quest for riches`
 
-1. Let’s do th…
+1. Let’s do th...
 
    `The four thieves stole a valuable head ornament so fast that no one had a
     chance to react.`
@@ -336,8 +339,8 @@ translations:
     and threats they keep all the people under control.`
 
 Complete **whitehouse** mission as normal. Once in the bunker, cut left and see
-painting. If requirements are met it will glow gold. Remove painting. Host will
-then recieve C4; enter room and go down elevator.
+painting. If requirements are met it will glow gold. Remove the painting. Host
+will then recieve C4; enter room and go down elevator.
 
 You will see room with 4 levers and a wheel. The outer wheel is a riddle, and
 the inner wheels provide a way to answer.
