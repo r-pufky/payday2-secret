@@ -44,17 +44,17 @@ Specific trophies need to be obtained and displayed to start the initial puzzle
  * Once you have these, display them and enter the safehouse.
  * Pickup the medallion and use it to open coffers
  * Pickup Diamond to the left of the boxes
- * Use diamon on Guide of Bain (where you got medallion), it should burn
+ * Use diamond on Guide of Bain (where you got medallion), it should burn
 
 ### Unlock list of achievements in Safehouse
-You need to unlock a list of achievements in safehouse. Once you have all three
-boxes, interact with them to remove them from the box; shoot the piano keys in
-the following order to stop the device from spinning
+You need to unlock a list of achievements in safehouse to complete. Once all the
+required display items are done (above), goto the piano in Scarface's office.
 
 ![Piano Keys](piano-keys.png)
 
-Interacting with the device will reveal the required pre-requiset achievements
-for the secret in cipher text. These are listed here with translations:
+Interacting with the device will reveal ciphered riddles. These turn out to be
+required achievements to enable the secret. These are listed here with
+translations:
 
 1. Diamonds are Forever
 
