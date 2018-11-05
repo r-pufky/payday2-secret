@@ -435,3 +435,24 @@ At the gates of silent memory, the lizard god speaks thy NUMBER
  * LAHUN
 
 ![lahun](lahun.png)
+
+```
+In the temple of gold and white, I bind myself to my psyche FOREVER
+```
+ * CUPID
+
+![cupid](cupid.png)
+
+```
+I am the bearer of the greatest gifts, I give what you seek THE MOST
+```
+ * GIANT
+
+![giant](giant.png)
+
+```
+I stand in front of the humble man on the wicked path as a COMPANION
+```
+ * SWORD
+
+![sword](sword.png)
