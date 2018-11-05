@@ -371,42 +371,60 @@ The legacy of Alessandro Cagliostro calls to the eastern STAR
 ```
  * GUIDE
 
+![GUIDE](guide.png)
+
 ```
 In the sand-covered lands of the pharaohs, I am followed by the missing LIGHT
 ```
  * SHEUT
+
+![SHEUT](sheut.png)
 
 ```
 Twins exchange a breath, the third sibling is banished until it RETURNS
 ```
  * ALGOL
 
+![algol](algol.png)
+
 ```
 Upon the terrace of riches and wealth, I hold what all who behold me DESIRE
 ```
  * JEWEL
+
+![jewel](jewel.png)
 
 ```
 Among old recovered things, four couples are eternally locked in their LOVE
 ```
  * DANCE
 
+![DANCE](dance.png)
+
 ```
 I must face two to ascend, lest I meet my final journey in this CHALLENGE
 ```
  * CHESS
+
+![CHESS](chess.png)
 
 ```
 With my companions wisdom and ferocity that which i fly over that is my LAND
 ```
  * SUMER
 
+![SUMER](sumer.png)
+
 ```
 That of the watcher which will be consumed in the voice of SUMER
 ```
  * ZUMRU
 
+![ZUMRU](zumru.png)
+
 ```
 I can be trusted to guard the great wealth of the land but do not trust my WORDS
 ```
  * APATE
+
+![apate](apate.png)
