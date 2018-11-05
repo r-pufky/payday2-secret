@@ -337,6 +337,10 @@ secret. These are listed here with translations:
 
    `In a place of healing the four thieves stole a vial of vile blood with speed
     and threats they keep all the people under control.`
+    
+1. Pacifish
+
+   `The four thieves did not spill blood while on the boat.`
 
 Complete **whitehouse** mission as normal. Once in the bunker, cut left and see
 painting. If requirements are met it will glow gold. Remove the painting. Host
