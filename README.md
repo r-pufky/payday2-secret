@@ -220,11 +220,6 @@ secret. These are listed here with translations:
    `The hidden vault was hard to find and difficult to open but the four thieves
     worked together and claimed the legendary treasure.`
 
-1. The Pacifist
-
-   `While stealing a bomb from a train the four thieves did not spill a single
-    drop of blood.Murky Station - The Pacifist`
-
 1. Remember, No Russian
 
    `As the liquid turned to vapor the four thieves watched over the dead never
@@ -337,10 +332,6 @@ secret. These are listed here with translations:
 
    `In a place of healing the four thieves stole a vial of vile blood with speed
     and threats they keep all the people under control.`
-    
-1. Pacifish
-
-   `The four thieves did not spill blood while on the boat.`
 
 Complete **whitehouse** mission as normal. Once in the bunker, cut left and see
 painting. If requirements are met it will glow gold. Remove the painting. Host
