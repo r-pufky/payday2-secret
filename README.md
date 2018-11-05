@@ -428,3 +428,10 @@ I can be trusted to guard the great wealth of the land but do not trust my WORDS
  * APATE
 
 ![apate](apate.png)
+
+```
+At the gates of silent memory, the lizard god speaks thy NUMBER
+```
+ * LAHUN
+
+![lahun](lahun.png)
