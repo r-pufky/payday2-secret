@@ -372,6 +372,36 @@ The legacy of Alessandro Cagliostro calls to the eastern STAR
  * GUIDE
 
 ```
-In the sand-covered lands of the pharaohs, I am followed by the missing LIGHT.
+In the sand-covered lands of the pharaohs, I am followed by the missing LIGHT
 ```
- * Sheut
+ * SHEUT
+
+```
+Twins exchange a breath, the third sibling is banished until it RETURNS
+```
+ * ALGOL
+
+```
+Upon the terrace of riches and wealth, I hold what all who behold me DESIRE
+```
+ * JEWEL
+
+```
+Among old recovered things, four couples are eternally locked in their LOVE
+```
+ * DANCE
+
+```
+I must face two to ascend, lest I meet my final journey in this CHALLENGE
+```
+ * CHESS
+
+```
+With my companions wisdom and ferocity that which i fly over that is my LAND
+```
+ * SUMER
+
+```
+That of the watcher which will be consumed in the voice of SUMER
+```
+ * ZUMRU
