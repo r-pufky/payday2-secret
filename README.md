@@ -405,3 +405,8 @@ With my companions wisdom and ferocity that which i fly over that is my LAND
 That of the watcher which will be consumed in the voice of SUMER
 ```
  * ZUMRU
+
+```
+I can be trusted to guard the great wealth of the land but do not trust my WORDS
+```
+ * APATE
