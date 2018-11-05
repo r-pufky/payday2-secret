@@ -257,7 +257,7 @@ secret. These are listed here with translations:
 
 1. Pacifish
 
-   `The four thieves didn't spill blood while on the boat.`
+   `The four thieves did not spill blood while on the boat.`
 
 1. Not Even Once
 
