@@ -361,6 +361,8 @@ Inner:  DEELRURDTECEUTIDUNNTSSEROL
 ```
  * X/J are interchangeable
  * All wheels wrap around
+ * If you mess up an answer, you will be reset to the first riddle
+ * There are 4 riddles to answer
 
 Riddles
 -------
