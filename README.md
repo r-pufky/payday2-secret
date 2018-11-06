@@ -43,9 +43,8 @@ Specific trophies need to be obtained and displayed to start the initial puzzle:
 
    `Henry's Rock - Normal`
 
- * Once you have these, display them and enter the safehouse.
+ * Once you have these, display them and enter the safehouse
  * Pickup the medallion and use it to open coffers
- * Pickup Diamond to the left of the boxes
 
 ### Unlock list of "Obsidian" achievements in Safehouse
 You need to unlock a list of achievements in safehouse to complete, dictated by
@@ -360,13 +359,16 @@ Inner:  DEELRURDTECEUTIDUNNTSSEROL
 
 Riddles
 -------
-Known riddles with answers are here:
+Known riddles with answers are here. The first image is the wheel match. The
+second image is the symbol combination in the center.
 
 ```
 The legacy of Alessandro Cagliostro calls to the eastern STAR
 ```
  * GUIDE
 
+
+![GUIDE](last-guide.png)
 ![GUIDE](guide.png)
 
 ```
@@ -374,6 +376,7 @@ In the sand-covered lands of the pharaohs, I am followed by the missing LIGHT
 ```
  * SHEUT
 
+![SHEUT](last-sheut.png)
 ![SHEUT](sheut.png)
 
 ```
@@ -381,6 +384,7 @@ Twins exchange a breath, the third sibling is banished until it RETURNS
 ```
  * ALGOL
 
+![algol](last-algol.png)
 ![algol](algol.png)
 
 ```
@@ -388,6 +392,7 @@ Upon the terrace of riches and wealth, I hold what all who behold me DESIRE
 ```
  * JEWEL
 
+![jewel](last-jewel.png)
 ![jewel](jewel.png)
 
 ```
@@ -395,6 +400,7 @@ Among old recovered things, four couples are eternally locked in their LOVE
 ```
  * DANCE
 
+![DANCE](last-dance.png)
 ![DANCE](dance.png)
 
 ```
@@ -402,6 +408,7 @@ I must face two to ascend, lest I meet my final journey in this CHALLENGE
 ```
  * CHESS
 
+![CHESS](last-chess.png)
 ![CHESS](chess.png)
 
 ```
@@ -409,6 +416,7 @@ With my companions wisdom and ferocity that which i fly over that is my LAND
 ```
  * SUMER
 
+![SUMER](last-sumer.png)
 ![SUMER](sumer.png)
 
 ```
@@ -416,6 +424,7 @@ That of the watcher which will be consumed in the voice of SUMER
 ```
  * ZUMRU
 
+![ZUMRU](last-zumru.png)
 ![ZUMRU](zumru.png)
 
 ```
@@ -423,6 +432,7 @@ I can be trusted to guard the great wealth of the land but do not trust my WORDS
 ```
  * APATE
 
+![apate](last-apate.png)
 ![apate](apate.png)
 
 ```
@@ -430,6 +440,7 @@ At the gates of silent memory, the lizard god speaks thy NUMBER
 ```
  * LAHUN
 
+![lahun](last-lahun.png)
 ![lahun](lahun.png)
 
 ```
@@ -437,6 +448,7 @@ In the temple of gold and white, I bind myself to my psyche FOREVER
 ```
  * CUPID
 
+![cupid](last-cupid.png)
 ![cupid](cupid.png)
 
 ```
@@ -444,6 +456,7 @@ I am the bearer of the greatest gifts, I give what you seek THE MOST
 ```
  * GIANT
 
+![giant](last-giant.png)
 ![giant](giant.png)
 
 ```
@@ -451,6 +464,7 @@ I stand in front of the humble man on the wicked path as a COMPANION
 ```
  * SWORD
 
+![sword](last-sword.png)
 ![sword](sword.png)
 
 
@@ -466,4 +480,5 @@ LITERATURE
 ```
  * ALGOR
 
+![algor](last-algor.png)
 ![algor](algor.png)
