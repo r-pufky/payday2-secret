@@ -55,7 +55,13 @@ the piano in Scarface's office and hit the following keys in order.
 
 This will stop the device from rotating. Interacting with the device will reveal
 ciphered riddles. These turn out to be required achievements to enable the
-secret. These are listed here with translations:
+secret.
+
+You can translate all **20** displayed for your account which appears to be
+**individual** (meaning you have to translate), or be safe and just do all
+**57** here.
+
+These are listed here with translations:
 
 1. Diamonds are Forever
 
