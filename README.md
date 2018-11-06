@@ -333,9 +333,9 @@ secret. These are listed here with translations:
    `In a place of healing the four thieves stole a vial of vile blood with speed
     and threats they keep all the people under control.`
 
-Complete **whitehouse** mission as normal. Once in the bunker, cut left and see
-painting. If requirements are met it will glow gold. Remove the painting. Host
-will then recieve C4; enter room and go down elevator.
+Complete **whitehouse** on **overkill or higher** mission as normal. Once in the
+bunker, cut left and see painting. If requirements are met it will glow gold.
+Remove the painting. Host will then recieve C4; enter room and go down elevator.
 
 You will see room with 4 levers and a wheel. The outer wheel is a riddle, and
 the inner wheels provide a way to answer.
