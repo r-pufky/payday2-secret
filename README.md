@@ -453,3 +453,18 @@ I stand in front of the humble man on the wicked path as a COMPANION
  * SWORD
 
 ![sword](sword.png)
+
+
+Unconfirmed Riddles
+-------------------
+These were suggested as answers to riddles. If you have the complete riddle,
+please submit changes!
+
+These are the **last word** only.
+
+```
+LITERATURE
+```
+ * ALGOR
+
+![algor](algor.png)
