@@ -46,7 +46,6 @@ Specific trophies need to be obtained and displayed to start the initial puzzle:
  * Once you have these, display them and enter the safehouse.
  * Pickup the medallion and use it to open coffers
  * Pickup Diamond to the left of the boxes
- * Use diamond on Guide of Bain (where you got medallion), it should burn
 
 ### Unlock list of "Obsidian" achievements in Safehouse
 You need to unlock a list of achievements in safehouse to complete, dictated by
