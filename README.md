@@ -10,9 +10,7 @@ Information for solving the secret in PD2.
 
 Requirements
 ------------
- * 4 players with achievements unlocked
- * Host must have solved Piano puzzle in safehouse
-
+ * 4 players with Piano puzzle in safehouse and 20 achievements unlocked
 
 How To Solve
 ------------
@@ -340,12 +338,10 @@ These are listed here with translations:
    `In a place of healing the four thieves stole a vial of vile blood with speed
     and threats they keep all the people under control.`
 
-1. Looting in the Dark | Oppressor
+1. Looting in the Dark
 
    `While Stealing A bomb from a train the four thieves did not spill a single
     drop of blood`
-    
-    *Please confirm which achievement unlocks*
 
 Complete **whitehouse** on **overkill or higher** mission as normal. Once in the
 bunker, cut left and see painting. If requirements are met it will glow gold.
