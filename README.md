@@ -2,6 +2,8 @@ Payday 2 Secret
 ---------------
 Information for solving the secret in PD2.
 
+[日本語](README_JA.md) | **English**
+
 **SPOILERS AHEAD**
 
 
