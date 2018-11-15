@@ -11,9 +11,7 @@ PD2のシークレットを解くための情報。
 
 必要条件
 ------------
- * 実績解除済みのプレイヤーが 4人
- * ホストはセーフハウスのピアノパズルを解いておく必要があります
-
+ * ピアノパズルと20個の実績を解除済みのプレイヤーが 4人
 
 解き方
 ------------
@@ -339,12 +337,10 @@ Obsidian Tabletによって指示された実績リストを解除する必要�
    `In a place of healing the four thieves stole a vial of vile blood with speed
     and threats they keep all the people under control.`
 
-1. Looting in the Dark または Oppressor
+1. Looting in the Dark
 
    `While Stealing A bomb from a train the four thieves did not spill a single
     drop of blood`
-    
-    *どちらの実績を解除する必要があるかはまだ未検証です。検証された場合はお知らせ下さい*
 
 まず**whitehouse**を**overkill以上**で通常クリアしてください。  
 バンカー(エアロックの先)に入った後、左の部屋に入り絵を見て下さい。 必要条件が満たされている場合は絵が金色に輝いています。  
