@@ -55,7 +55,8 @@ the piano in Scarface's office and hit the following keys in order.
 
 This will stop the device from rotating. Interacting with the device will reveal
 ciphered riddles. These turn out to be required achievements to enable the
-secret.
+secret.  
+**Note**: Every time you hit the piano keys, these required achievments list are re-rolled.
 
 You can translate all **20** displayed for your account which appears to be
 **individual** (meaning you have to translate), or be safe and just do all
