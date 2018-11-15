@@ -1,24 +1,25 @@
-Payday 2 Secret
+Payday 2 シークレット
 ---------------
-Information for solving the secret in PD2.
+PD2のシークレットを解くための情報。
 
-[日本語](README_JA.md) | **English**
+**日本語** | [English](README.md)  
+この日本語訳は情報が古くなる可能性があります。最新版を確認するには英語の原版をご覧ください。
 
-**SPOILERS AHEAD**
+**ネタバレが含まれています**
 
 
 
-Requirements
+必要条件
 ------------
- * 4 players with achievements unlocked
- * Host must have solved Piano puzzle in safehouse
+ * 実績解除済みのプレイヤーが 4人
+ * ホストはセーフハウスのピアノパズルを解いておく必要があります
 
 
-How To Solve
+解き方
 ------------
 
-### Obtain and Display required items in the Safehouse
-Specific trophies need to be obtained and displayed to start the initial puzzle:
+### 必要なアイテムを入手しセーフハウスに展示する
+最初のパズルを始めるには、特定のトロフィーを入手して展示する必要があります:
 
 1. Bain's Guide
 
@@ -45,26 +46,24 @@ Specific trophies need to be obtained and displayed to start the initial puzzle:
 
    `Henry's Rock - Normal`
 
- * Once you have these, display them and enter the safehouse
- * Pickup the medallion and use it to open coffers
+ * これらを入手したら、展示状態にしてセーフハウスに行ってください
+ * medallionを拾いcoffersに使用することでcoffersを開ける事ができます
 
-### Unlock list of "Obsidian" achievements in Safehouse
-You need to unlock a list of achievements in safehouse to complete, dictated by
-the Obsidian Tablet. Once all the required display items are done (above), goto
-the piano in Scarface's office and hit the following keys in order.
+### セーフハウスの"Obsidian"実績を解除するためのリスト
+Obsidian Tabletによって指示された実績リストを解除する必要があります。  
+必要な全ての展示アイテムを手に入れたら(上記)、Scarfaceのオフィスに行き次の順番でピアノのキーを弾いて(ハンドガンで撃って)ください。
 
-![Piano Keys](piano-keys.png)
+![ピアノのキー](piano-keys.png)
 
-This will stop the device from rotating. Interacting with the device will reveal
-ciphered riddles. These turn out to be required achievements to enable the
-secret.  
-**Note**: Every time you hit the piano keys, these required achievements list are re-rolled.
+これによってデバイスの回転が止まります。
+デバイスにインタラクトすることで暗号化された謎が明らかになります。
+これらはシークレットを行うために必要な実績であることが分かります。
 
-You can translate all **20** displayed for your account which appears to be
-**individual** (meaning you have to translate), or be safe and just do all
-**57** here.
+表示される**20**個のリストは、それぞれのアカウントで**それぞれ違います** (これは自分で解読する必要があることを意味しています)  
+もしくは、安全を期すために明らかになっている**57**個全てを行うと良いでしょう。  
+**注意**: ピアノを弾き直すたびに、20個のリストは再抽選されます。
 
-These are listed here with translations:
+以下のリストは解読されたものです:
 
 1. Diamonds are Forever
 
@@ -106,7 +105,7 @@ These are listed here with translations:
    `When the four thieves were asked to destroy a large store their actions were
     as fast as they were devastating`
 
-1. Platinum Card (Or: “Yeah, He’s a Gold Digger”)
+1. Platinum Card (もしくは: “Yeah, He’s a Gold Digger”)
 
    `The four thieves strolled down the street cleaning out each stop they passed
     despite every effort the law couldn’t stop them.`
@@ -340,43 +339,42 @@ These are listed here with translations:
    `In a place of healing the four thieves stole a vial of vile blood with speed
     and threats they keep all the people under control.`
 
-1. Looting in the Dark
+1. Looting in the Dark または Oppressor
 
    `While Stealing A bomb from a train the four thieves did not spill a single
     drop of blood`
     
-    *Please confirm which achievement unlocks*
+    *どちらの実績を解除する必要があるかはまだ未検証です。検証された場合はお知らせ下さい*
 
-Complete **whitehouse** on **overkill or higher** mission as normal. Once in the
-bunker, cut left and see painting. If requirements are met it will glow gold.
-Remove the painting. Host will then recieve C4; enter room and go down elevator.
+まず**whitehouse**を**overkill以上**で通常クリアしてください。  
+バンカー(エアロックの先)に入った後、左の部屋に入り絵を見て下さい。 必要条件が満たされている場合は絵が金色に輝いています。  
+絵を取り外して下さい。 ホストはC4を受け取り、部屋に入ってエレベーターを降りる事ができます。
 
-You will see room with 4 levers and a wheel. The outer wheel is a riddle, and
-the inner wheels provide a way to answer.
- * Language is RIGHT to LEFT, answers should be put in from RIGHT to LEFT, on
-   the outer most ring inwards.
+4つのレバーとホイールがある部屋に辿り着くでしょう。外側のホイールは謎を表しており、内側のホイールは謎に対する答えを入力する場所です。
+ * 謎の言語は"右"から"左"に書かれているため、答えはリングの外側から内側に向かって"右"から"左"に入力する必要があります。
 
-Codewheels
+コードホイール
 ----------
-Translate characters using this table:
-![Image of Translation](cipher-text.jpg)
+暗号化された謎はこの表を使って解読することが出来ます:
+![暗号化された文字と解読された画像](cipher-text.jpg)
 
-The translation on the rings for the answer are as follows
+答えを入力するリングは以下の通りになっています
 
 ```text
-Outer:  DAGILASWALCHXEAPSHCUZUSUGU
-Middle: IGLSMCAWNVKFXOUBJHTQZREYDP
-Inner:  DEELRURDTECEUTIDUNNTSSEROL
+外側:  DAGILASWALCHXEAPSHCUZUSUGU
+中央: IGLSMCAWNVKFXOUBJHTQZREYDP
+内側:  DEELRURDTECEUTIDUNNTSSEROL
 ```
- * X/J are interchangeable
- * All wheels wrap around
- * If you mess up an answer, you will be reset to the first riddle
- * There are 4 riddles to answer
+ * XとJは入れ替えが可能です
+ * 全てのホイールは最後まで行くと最初に戻ります
+ * 答えを間違った場合、最初の謎に戻されます
+ * 4つの謎に答える必要があります
 
-Riddles
+謎
 -------
-Known riddles with answers are here. The first image is the wheel match. The
-second image is the symbol combination in the center.
+答えが解っている判明した謎がここに記載されています。
+最初の画像は一番外側のホイールの最後の文字列です。(全ての謎の終わりの文字列はそれぞれ異なっているので、ホイールの終わりを見れば謎が推測出来ます)
+二番目の画像は答えの文字列です。
 
 ```
 The legacy of Alessandro Cagliostro calls to the eastern STAR
