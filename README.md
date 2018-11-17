@@ -10,7 +10,7 @@ Information for solving the secret in PD2.
 
 Requirements
 ------------
- * 4 players with Piano puzzle in safehouse and 20 achievements unlocked
+ * 4 players with Piano puzzle completed in safehouse, and 20 achievements unlocked
 
 How To Solve
 ------------
@@ -291,8 +291,8 @@ These are listed here with translations:
 
 1. Attacked Helicopter
 
-   `The four thieves rescued the incarcerated man. They shot the large bird that
-    tried to stop them from sending them into safety.`
+   `As the four thieves rescued the incarcerated man. They shot the large bird
+    that tried to stop them from sending them into safety.`
 
 1. The Fuel Must Flow
 
