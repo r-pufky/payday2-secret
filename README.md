@@ -166,7 +166,7 @@ These are listed here with translations:
 1. I'm A Swinger
 
    `The four thieves influenced the world around them and changed the course of
-   society without anyone ever find out.`
+   society without anyone ever finding out.`
 
 1. Don't bring the Heat
 
