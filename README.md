@@ -248,7 +248,7 @@ These are listed here with translations:
 1. Full Throttle
 
    `The four thieves attacked a train in motion they quickly made it to the last
-    cars to see what they were after and made it to their escape.`
+    cars to see what they were after and made it back to their escape.`
 
 1. Quick Draw
 
