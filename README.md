@@ -175,7 +175,7 @@ These are listed here with translations:
 
 1. Walk Faster
 
-   `A house full thugs and low lifes could not stop the four thieves from
+   `A house full of thugs and low lifes could not stop the four thieves from
     reaching their target.`
 
 1. Watch The Power Switch!
