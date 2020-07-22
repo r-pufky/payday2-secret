@@ -204,7 +204,7 @@ Obsidian Tabletによって指示された実績リストを解除する必要�
 
 1. Pump It Up
 
-   `In the forest four thieves kept the pipe from their river intact.`
+   `In the forest the four thieves kept the pipe from their river intact.`
 
 1. Settling a Scar
 
