@@ -10,7 +10,7 @@ Information for solving the secret in PD2.
 
 Requirements
 ------------
- * 4 players with Piano puzzle completed in safehouse, and 20 achievements unlocked
+ * All players with piano puzzle completed in safehouse, and 20 achievements unlocked
 
 How To Solve
 ------------
