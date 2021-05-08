@@ -268,7 +268,7 @@ Obsidian Tabletによって指示された実績リストを解除する必要�
    `The four thieves interrupted a deal of great value but even though they were
     surrounded and cornered no one fell in the onslaught that followed.`
 
-1. Making a Statement
+1. Puts the "S" in Laughterhouse
 
    `Surrounded, the four thieves overcame grave danger and escaped the house of
     massacre.`
