@@ -102,7 +102,7 @@ These are listed here with translations:
 1. Self Checkout
 
    `When the four thieves were asked to destroy a large store their actions were
-    as fast as they were devastating`
+    as fast as they were devastating.`
 
 1. Platinum Card (Or: “Yeah, He’s a Gold Digger”)
 
@@ -112,7 +112,7 @@ These are listed here with translations:
 1. What’s in the Box?
 
    `Great value rained from the sky and the four thieves opened any packages in
-    their quest for riches`
+    their quest for riches.`
 
 1. Let’s do th...
 
@@ -141,7 +141,7 @@ These are listed here with translations:
 1. Out of bounds
 
    `The four thieves were surrounded on the docks but they kept their enemies
-    away from the loot until it was all sent away`
+    away from the loot until it was all sent away.`
 
 1. Lord of War
 
@@ -338,10 +338,10 @@ These are listed here with translations:
    `In a place of healing the four thieves stole a vial of vile blood with speed
     and threats they keep all the people under control.`
 
-1. The Pacifist
+1. Looting in the Dark
 
    `While Stealing A bomb from a train the four thieves did not spill a single
-    drop of blood`
+    drop of blood.`
 
 Complete **whitehouse** on **overkill or higher** mission as normal. Once in the
 bunker, cut left and see painting. If requirements are met it will glow gold.

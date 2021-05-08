@@ -101,7 +101,7 @@ Obsidian Tabletによって指示された実績リストを解除する必要�
 1. Self Checkout
 
    `When the four thieves were asked to destroy a large store their actions were
-    as fast as they were devastating`
+    as fast as they were devastating.`
 
 1. Platinum Card (もしくは: “Yeah, He’s a Gold Digger”)
 
@@ -111,7 +111,7 @@ Obsidian Tabletによって指示された実績リストを解除する必要�
 1. What’s in the Box?
 
    `Great value rained from the sky and the four thieves opened any packages in
-    their quest for riches`
+    their quest for riches.`
 
 1. Let’s do th...
 
@@ -140,7 +140,7 @@ Obsidian Tabletによって指示された実績リストを解除する必要�
 1. Out of bounds
 
    `The four thieves were surrounded on the docks but they kept their enemies
-    away from the loot until it was all sent away`
+    away from the loot until it was all sent away.`
 
 1. Lord of War
 
@@ -340,7 +340,7 @@ Obsidian Tabletによって指示された実績リストを解除する必要�
 1. Looting in the Dark
 
    `While Stealing A bomb from a train the four thieves did not spill a single
-    drop of blood`
+    drop of blood.`
 
 まず**whitehouse**を**overkill以上**で通常クリアしてください。  
 バンカー(エアロックの先)に入った後、左の部屋に入り絵を見て下さい。 必要条件が満たされている場合は絵が金色に輝いています。  
