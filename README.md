@@ -228,7 +228,7 @@ These are listed here with translations:
 1. Remember, No Russian
 
    `As the liquid turned to vapor the four thieves watched over the dead never
-    letting their power by taken away thereby staving off the darkness.`
+    letting their power be taken away thereby staving off the darkness.`
 
 1. Hazzard County
 
