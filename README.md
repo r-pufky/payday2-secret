@@ -94,7 +94,7 @@ These are listed here with translations:
    `From a well guarded transport the Four Thieves found out about a secret
     shipment containing a valuable weapon.`
 
-1. [We’re Gonna Need a Bigger Boat]("Plaques/We’re%20Gonna%20Need%20a%20Bigger%20Boat%20-%20As%20The%20four%20thieves%20stole%20the%20valuable%20weapon%20they%20also%20took%20all%20the%20munitions%20they%20could%20find.jpg")
+1. [We’re Gonna Need a Bigger Boat](Plaques/We’re%20Gonna%20Need%20a%20Bigger%20Boat%20-%20As%20The%20four%20thieves%20stole%20the%20valuable%20weapon%20they%20also%20took%20all%20the%20munitions%20they%20could%20find.jpg)
 
    Translation  | Achievement
    ------------ | -------------
@@ -115,7 +115,7 @@ These are listed here with translations:
    `Great value rained from the sky and the four thieves opened any packages in
     their quest for riches`
 
-1. [Let’s do th...]("Plaques/Let’s%20do%20th...%20-%20The%20four%20thieves%20stole%20a%20valuable%20head%20ornament%20so%20fast%20that%20no%20one%20had%20a%20chance%20to%20react.jpg")
+1. [Let’s do th...](Plaques/Let’s%20do%20th...%20-%20The%20four%20thieves%20stole%20a%20valuable%20head%20ornament%20so%20fast%20that%20no%20one%20had%20a%20chance%20to%20react.jpg)
 
    Translation  | Achievement
    ------------ | -------------
@@ -140,7 +140,7 @@ These are listed here with translations:
    `As the snow fell, the fours thieves attacked a large store and took
     everything of value.`
 
-1. [Out of bounds]("Plaques/Out%20of%20bounds%20-%20The%20four%20thieves%20were%20surrounded%20on%20the%20docks%20but%20they%20kept%20their%20enemies%20away%20from%20the%20loot%20until%20it%20was%20all%20sent%20away.jpg")
+1. [Out of bounds](Plaques/Out%20of%20bounds%20-%20The%20four%20thieves%20were%20surrounded%20on%20the%20docks%20but%20they%20kept%20their%20enemies%20away%20from%20the%20loot%20until%20it%20was%20all%20sent%20away.jpg)
 
    Translation  | Achievement
    ------------ | -------------
@@ -156,7 +156,7 @@ These are listed here with translations:
    `In an old abandoned house the four thieves made as much blue as they could
     with the resources available.`
 
-1. [Doctor Fantastic]("Plaques/Doctor%20Fantastic%20-%20The%20four%20thieves%20with%20all%20their%20wit%20could%20identify%20the%20mechanism%20they%20needed%20to%20steal%20with%20the%20greatest%20of%20ease.jpg")
+1. [Doctor Fantastic](Plaques/Doctor%20Fantastic%20-%20The%20four%20thieves%20with%20all%20their%20wit%20could%20identify%20the%20mechanism%20they%20needed%20to%20steal%20with%20the%20greatest%20of%20ease.jpg)
 
    Translation  | Achievement
    ------------ | -------------
@@ -167,7 +167,7 @@ These are listed here with translations:
    `Under the cover of darkness the four thieves quietly stole the valuable
     metal and replaced it with white dust.`
 
-1. [I'm A Swinger]("Plaques/I'm%20A%20Swinger%20-%20The%20four%20thieves%20influenced%20the%20world%20around%20them%20and%20changed%20the%20course%20of%20society%20without%20anyone%20ever%20finding%20out.jpg")
+1. [I'm A Swinger](Plaques/I'm%20A%20Swinger%20-%20The%20four%20thieves%20influenced%20the%20world%20around%20them%20and%20changed%20the%20course%20of%20society%20without%20anyone%20ever%20finding%20out.jpg)
 
    Translation  | Achievement
    ------------ | -------------
@@ -178,7 +178,7 @@ These are listed here with translations:
    `The four thieves robbed the largest bank ever built without alerting the
     law.`
 
-1. [Walk Faster]("Plaques/Walk%20Faster%20-%20A%20house%20full%20of%20thugs%20and%20low%20lifes%20could%20not%20stop%20the%20four%20thieves%20from%20reaching%20their%20target.jpg")
+1. [Walk Faster](Plaques/Walk%20Faster%20-%20A%20house%20full%20of%20thugs%20and%20low%20lifes%20could%20not%20stop%20the%20four%20thieves%20from%20reaching%20their%20target.jpg)
 
    Translation  | Achievement
    ------------ | -------------
@@ -189,13 +189,13 @@ These are listed here with translations:
    `The four thieves held their ground as their friend worked and because of
     their efforts he was completely uninterrupted.`
 
-1. [Silent But Deadly]("Plaques/Silent%20But%20Deadly%20-%20When%20the%20four%20thieves%20were%20betrayed%20their%20revenge%20was%20precise%20and%20quiet%20no%20one%20knew%20they%20had%20been%20there%20until%20it%20was%20too%20late.jpg")
+1. [Silent But Deadly](Plaques/Silent%20But%20Deadly%20-%20When%20the%20four%20thieves%20were%20betrayed%20their%20revenge%20was%20precise%20and%20quiet%20no%20one%20knew%20they%20had%20been%20there%20until%20it%20was%20too%20late.jpg)
 
    Translation  | Achievement
    ------------ | -------------
    `When the four thieves were betrayed their revenge was precise and quiet no one knew they had been there until it was too late.` | `Complete the Hoxton Revenge job without triggering the alarm.`
 
-1. [Cat Burglar]("Plaques/Cat%20Burglar%20-%20The%20four%20thieves%20stole%20a%20rare%20rock%20of%20great%20value%20and%20importance%20without%20anyone%20noticing%20that%20they%20were%20there.jpg")
+1. [Cat Burglar](Plaques/Cat%20Burglar%20-%20The%20four%20thieves%20stole%20a%20rare%20rock%20of%20great%20value%20and%20importance%20without%20anyone%20noticing%20that%20they%20were%20there.jpg)
 
    Translation  | Achievement
    ------------ | -------------
@@ -211,7 +211,7 @@ These are listed here with translations:
    `By the docks the four thieves went about their business without
     interruptions.`
 
-1. [Pump It Up]("Plaques/Pump%20It%20Up%20-%20In%20the%20forest%20the%20four%20thieves%20kept%20the%20pipe%20from%20their%20river%20intact.jpg")
+1. [Pump It Up](Plaques/Pump%20It%20Up%20-%20In%20the%20forest%20the%20four%20thieves%20kept%20the%20pipe%20from%20their%20river%20intact.jpg)
 
    Translation  | Achievement
    ------------ | -------------
@@ -226,13 +226,13 @@ These are listed here with translations:
    `As the party was in full swing the four thieves went about their business
     and none ever knew they were there.`
 
-1. [Dr. Evil]("Plaques/Dr.%20Evil%20-%20The%20four%20thieves%20once%20created%20for%20themselves%20a%20large%20fortune.jpg")
+1. [Dr. Evil](Plaques/Dr.%20Evil%20-%20The%20four%20thieves%20once%20created%20for%20themselves%20a%20large%20fortune.jpg)
 
    Translation  | Achievement
    ------------ | -------------
    `The four thieves once created for themselves a large fortune.` | `On the Counterfeit job, print and secure $1,000,000 worth of counterfeit money in the Helicopter. Unlocks the "Viking" mask, "Houndstooth" material and "Fenris" pattern.`
 
-1. [OVERDRILL]("Plaques/Overdrill%20-%20The%20hidden%20vault%20was%20hard%20to%20find%20and%20difficult%20to%20open%20but%20the%20four%20thieves%20worked%20together%20and%20claimed%20the%20legendary%20treasure.jpg")
+1. [OVERDRILL](Plaques/Overdrill%20-%20The%20hidden%20vault%20was%20hard%20to%20find%20and%20difficult%20to%20open%20but%20the%20four%20thieves%20worked%20together%20and%20claimed%20the%20legendary%20treasure.jpg)
 
    Translation  | Achievement
    ------------ | -------------
@@ -248,7 +248,7 @@ These are listed here with translations:
    `The four thieves stole goats and hidden treasures once the deed was done
     they quickly made their escape together.`
 
-1. [Santa Slays Slackers]("Plaques/Santa%20Slays%20Slackers%20-%20The%20four%20thieves%20guarded%20the%20packer%20as%20they%20prepared%20the%20next%20shipment%20even%20as%20the%20law%20came%20charging%20in.jpg")
+1. [Santa Slays Slackers](Plaques/Santa%20Slays%20Slackers%20-%20The%20four%20thieves%20guarded%20the%20packer%20as%20they%20prepared%20the%20next%20shipment%20even%20as%20the%20law%20came%20charging%20in.jpg)
 
    Translation  | Achievement
    ------------ | -------------
@@ -264,13 +264,13 @@ These are listed here with translations:
    `The four thieves attacked a train in motion they quickly made it to the last
     cars to see what they were after and made it back to their escape.`
 
-1. [Quick Draw]("Plaques/Quick%20Draw%20-%20A%20room%20full%20of%20riches,%20a%20house%20full%20of%20thugs.%20The%20four%20thieves%20were%20quick%20and%20deadly%20and%20before%20anyone%20knew%20it%20all%20the%20thugs%20were%20dead.jpg")
+1. [Quick Draw](Plaques/Quick%20Draw%20-%20A%20room%20full%20of%20riches,%20a%20house%20full%20of%20thugs.%20The%20four%20thieves%20were%20quick%20and%20deadly%20and%20before%20anyone%20knew%20it%20all%20the%20thugs%20were%20dead.jpg)
 
    Translation  | Achievement
    ------------ | -------------
    `A room full of riches, a house full of thugs. The four thieves were quick and deadly and before anyone knew it all the thugs were dead.` | `In the Panic Room job, kill all gangsters within 60 seconds after masking up on the OVERKILL difficulty or above.`
 
-1. [A Rendezvous With Destiny]("Plaques/A%20Rendezvous%20With%20Destiny%20-%20The%20four%20thieves%20made%20their%20way%20through%20the%20abandoned%20building%20and%20quickly%20found%20their%20charge.jpg")
+1. [A Rendezvous With Destiny](Plaques/A%20Rendezvous%20With%20Destiny%20-%20The%20four%20thieves%20made%20their%20way%20through%20the%20abandoned%20building%20and%20quickly%20found%20their%20charge.jpg)
 
    Translation  | Achievement
    ------------ | -------------
@@ -280,13 +280,13 @@ These are listed here with translations:
 
    `The four thieves did not spill blood while on the boat.`
 
-1. [Not Even Once]("Plaques/Not%20Even%20Once%20-%20The%20four%20thieves%20interrupted%20a%20deal%20of%20great%20value%20but%20even%20though%20they%20were%20surrounded%20and%20cornered%20no%20one%20fell%20in%20the%20onslaught%20that%20followed.jpg")
+1. [Not Even Once](Plaques/Not%20Even%20Once%20-%20The%20four%20thieves%20interrupted%20a%20deal%20of%20great%20value%20but%20even%20though%20they%20were%20surrounded%20and%20cornered%20no%20one%20fell%20in%20the%20onslaught%20that%20followed.jpg)
 
    Translation  | Achievement
    ------------ | -------------
    `The four thieves interrupted a deal of great value but even though they were surrounded and cornered no one fell in the onslaught that followed.` | `Complete the Undercover job on the OVERKILL difficulty or above without anyone in your crew getting downed or cuffed.`
 
-1. [Making a Statement]("Plaques/Making%20a%20Statement%20-%20Surrounded,%20the%20four%20thieves%20overcame%20grave%20danger%20and%20escaped%20the%20house%20of%20massacre.jpg")
+1. [Making a Statement](Plaques/Making%20a%20Statement%20-%20Surrounded,%20the%20four%20thieves%20overcame%20grave%20danger%20and%20escaped%20the%20house%20of%20massacre.jpg)
 
    Translation  | Achievement
    ------------ | -------------
@@ -297,12 +297,12 @@ These are listed here with translations:
    `The four thieves snuck into the mountain keep and they stole everything of
     value kept there.`
 
-1. [1...2...3... JUMP!]("Plaques/1...2...3...%20JUMP!%20-%20On%20the%20day%20they%20came%20in%20to%20the%20word%20flying%20through%20the%20heavens%20the%20four%20thieves%20all%20fell%20together.jpg")
+1. [1...2...3... JUMP!](Plaques/1...2...3...%20JUMP!%20-%20On%20the%20day%20they%20came%20in%20to%20the%20word%20flying%20through%20the%20heavens%20the%20four%20thieves%20all%20fell%20together.jpg)
 
    `On the day they came in to the word flying through the heavens the four
     thieves all fell together.`
 
-1. [It's Nice To Be Nice]("Plaques/It's%20Nice%20To%20Be%20Nice%20-%20The%20four%20thieves%20were%20surrounded%20in%20the%20street%20but%20they%20fought%20their%20way%20through%20the%20onslaught%20of%20enemies%20and%20not%20a%20single%20innocent%20was%20harmed.jpg")
+1. [It's Nice To Be Nice](Plaques/It's%20Nice%20To%20Be%20Nice%20-%20The%20four%20thieves%20were%20surrounded%20in%20the%20street%20but%20they%20fought%20their%20way%20through%20the%20onslaught%20of%20enemies%20and%20not%20a%20single%20innocent%20was%20harmed.jpg)
 
    Translation  | Achievement
    ------------ | -------------
@@ -352,13 +352,13 @@ These are listed here with translations:
    `When the four thieves came to the aid of their long lost friend they knew
     darkness was their ally.`
 
-1. [Keeping the Cool]("Plaques/Keeping%20the%20Cool%20-%20In%20a%20place%20of%20healing%20the%20four%20thieves%20stole%20a%20vial%20of%20vile%20blood%20with%20speed%20and%20threats%20they%20keep%20all%20the%20people%20under%20control.jpg")
+1. [Keeping the Cool](Plaques/Keeping%20the%20Cool%20-%20In%20a%20place%20of%20healing%20the%20four%20thieves%20stole%20a%20vial%20of%20vile%20blood%20with%20speed%20and%20threats%20they%20keep%20all%20the%20people%20under%20control.jpg)
 
    Translation  | Achievement
    ------------ | -------------
    `In a place of healing the four thieves stole a vial of vile blood with speed and threats they keep all the people under control.` | `Complete the No Mercy job on the hard difficulty or above without raising the alarm before reaching the ICU.`
 
-1. [The Pacifist]("Plaques/The%20Pacifist%20-%20While%20Stealing%20A%20bomb%20from%20a%20train%20the%20four%20thieves%20did%20not%20spill%20a%20single%20drop%20of%20blood.jpg")
+1. [The Pacifist](Plaques/The%20Pacifist%20-%20While%20Stealing%20A%20bomb%20from%20a%20train%20the%20four%20thieves%20did%20not%20spill%20a%20single%20drop%20of%20blood.jpg)
 
    Translation  | Achievement
    ------------ | -------------
