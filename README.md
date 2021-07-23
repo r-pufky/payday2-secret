@@ -94,10 +94,11 @@ These are listed here with translations:
    `From a well guarded transport the Four Thieves found out about a secret
     shipment containing a valuable weapon.`
 
-1. We’re Gonna Need a Bigger Boat
+1. [We’re Gonna Need a Bigger Boat]("Plaques/We’re Gonna Need a Bigger Boat - As The four thieves stole the valuable weapon they also took all the munitions they could find.jpg") | 
 
-   `As The four thieves stole the valuable weapon they also took all the
-    munitions they could find.`
+   Translation  | Achievement
+   ------------ | -------------
+   `As The four thieves stole the valuable weapon they also took all the munitions they could find.` | `On the Transport: Train Heist, steal and secure 20 bags worth of ammo.`
 
 1. Self Checkout
 
@@ -114,7 +115,7 @@ These are listed here with translations:
    `Great value rained from the sky and the four thieves opened any packages in
     their quest for riches`
 
-1. Let’s do th...
+1. [Let’s do th...]("Plaques/Let’s do th... - The four thieves stole a valuable head ornament so fast that no one had a chance to react.jpg")
 
    `The four thieves stole a valuable head ornament so fast that no one had a
     chance to react.`
@@ -138,7 +139,7 @@ These are listed here with translations:
    `As the snow fell, the fours thieves attacked a large store and took
     everything of value.`
 
-1. Out of bounds
+1. [Out of bounds]("Plaques/Out of bounds - The four thieves were surrounded on the docks but they kept their enemies away from the loot until it was all sent away.jpg")
 
    `The four thieves were surrounded on the docks but they kept their enemies
     away from the loot until it was all sent away`
@@ -153,7 +154,7 @@ These are listed here with translations:
    `In an old abandoned house the four thieves made as much blue as they could
     with the resources available.`
 
-1. Doctor Fantastic
+1. [Doctor Fantastic]("Plaques/Doctor Fantastic - The four thieves with all their wit could identify the mechanism they needed to steal with the greatest of ease.jpg")
 
    `The four thieves with all their wit could identify the mechanism they needed
     to steal with the greatest of ease.`
@@ -163,7 +164,7 @@ These are listed here with translations:
    `Under the cover of darkness the four thieves quietly stole the valuable
     metal and replaced it with white dust.`
 
-1. I'm A Swinger
+1. [I'm A Swinger]("Plaques/I'm A Swinger - The four thieves influenced the world around them and changed the course of society without anyone ever finding out.jpg")
 
    `The four thieves influenced the world around them and changed the course of
    society without anyone ever finding out.`
@@ -173,7 +174,7 @@ These are listed here with translations:
    `The four thieves robbed the largest bank ever built without alerting the
     law.`
 
-1. Walk Faster
+1. [Walk Faster]("Plaques/Walk Faster - A house full of thugs and low lifes could not stop the four thieves from reaching their target.jpg")
 
    `A house full of thugs and low lifes could not stop the four thieves from
     reaching their target.`
@@ -183,12 +184,12 @@ These are listed here with translations:
    `The four thieves held their ground as their friend worked and because of
     their efforts he was completely uninterrupted.`
 
-1. Silent But Deadly
+1. [Silent But Deadly]("Plaques/Silent But Deadly - When the four thieves were betrayed their revenge was precise and quiet no one knew they had been there until it was too late.jpg")
 
    `When the four thieves were betrayed their revenge was precise and quiet no
     one knew they had been there until it was too late.`
 
-1. Cat Burglar
+1. [Cat Burglar]("Plaques/Cat Burglar - The four thieves stole a rare rock of great value and importance without anyone noticing that they were there.jpg")
 
    `The four thieves stole a rare rock of great value and importance without
     anyone noticing that they were there.`
@@ -203,7 +204,7 @@ These are listed here with translations:
    `By the docks the four thieves went about their business without
     interruptions.`
 
-1. Pump It Up
+1. [Pump It Up]("Plaques/Pump It Up - In the forest the four thieves kept the pipe from their river intact.jpg")
 
    `In the forest the four thieves kept the pipe from their river intact.`
 
@@ -216,11 +217,11 @@ These are listed here with translations:
    `As the party was in full swing the four thieves went about their business
     and none ever knew they were there.`
 
-1. Dr. Evil
+1. [Dr. Evil]("Plaques/Dr. Evil - The four thieves once created for themselves a large fortune.jpg")
 
    `The four thieves once created for themselves a large fortune.`
 
-1. OVERDRILL
+1. [OVERDRILL]("Plaques/Overdrill - The hidden vault was hard to find and difficult to open but the four thieves worked together and claimed the legendary treasure.jpg")
 
    `The hidden vault was hard to find and difficult to open but the four thieves
     worked together and claimed the legendary treasure.`
@@ -235,7 +236,7 @@ These are listed here with translations:
    `The four thieves stole goats and hidden treasures once the deed was done
     they quickly made their escape together.`
 
-1. Santa Slays Slackers
+1. [Santa Slays Slackers]("Plaques/Santa Slays Slackers - The four thieves guarded the packer as they prepared the next shipment even as the law came charging in.jpg")
 
    `The four thieves guarded the packer as they prepared the next shipment even
     as the law came charging in.`
@@ -250,12 +251,12 @@ These are listed here with translations:
    `The four thieves attacked a train in motion they quickly made it to the last
     cars to see what they were after and made it back to their escape.`
 
-1. Quick Draw
+1. [Quick Draw]("Plaques/Quick Draw - A room full of riches, a house full of thugs. The four thieves were quick and deadly and before anyone knew it all the thugs were dead.jpg")
 
    `A room full of riches, a house full of thugs. The four thieves were quick
     and deadly and before anyone knew it all the thugs were dead.`
 
-1. A Rendezvous With Destiny
+1. [A Rendezvous With Destiny]("Plaques/A Rendezvous With Destiny - The four thieves made their way through the abandoned building and quickly found their charge.jpg")
 
    `The four thieves made their way through the abandoned building and quickly
     found their charge.`
@@ -264,12 +265,12 @@ These are listed here with translations:
 
    `The four thieves did not spill blood while on the boat.`
 
-1. Not Even Once
+1. [Not Even Once]("Plaques/Not Even Once - The four thieves interrupted a deal of great value but even though they were surrounded and cornered no one fell in the onslaught that followed.jpg")
 
    `The four thieves interrupted a deal of great value but even though they were
     surrounded and cornered no one fell in the onslaught that followed.`
 
-1. Making a Statement
+1. [Making a Statement]("Plaques/Making a Statement - Surrounded, the four thieves overcame grave danger and escaped the house of massacre.jpg")
 
    `Surrounded, the four thieves overcame grave danger and escaped the house of
     massacre.`
@@ -279,12 +280,12 @@ These are listed here with translations:
    `The four thieves snuck into the mountain keep and they stole everything of
     value kept there.`
 
-1. 1...2...3... JUMP!
+1. [1...2...3... JUMP!]("Plaques/1...2...3... JUMP! - On the day they came in to the word flying through the heavens the four thieves all fell together.jpg")
 
    `On the day they came in to the word flying through the heavens the four
     thieves all fell together.`
 
-1. It's Nice To Be Nice
+1. [It's Nice To Be Nice]("Plaques/It's Nice To Be Nice - The four thieves were surrounded in the street but they fought their way through the onslaught of enemies and not a single innocent was harmed.jpg")
 
    `The four thieves were surrounded in the street but they fought their way
     through the onslaught of enemies and not a single innocent was harmed.`
@@ -333,12 +334,12 @@ These are listed here with translations:
    `When the four thieves came to the aid of their long lost friend they knew
     darkness was their ally.`
 
-1. Keeping the Cool
+1. [Keeping the Cool]("Plaques/Keeping the Cool - In a place of healing the four thieves stole a vial of vile blood with speed and threats they keep all the people under control.jpg")
 
    `In a place of healing the four thieves stole a vial of vile blood with speed
     and threats they keep all the people under control.`
 
-1. The Pacifist
+1. [The Pacifist]("Plaques/The Pacifist - While Stealing A bomb from a train the four thieves did not spill a single drop of blood.jpg")
 
    `While Stealing A bomb from a train the four thieves did not spill a single
     drop of blood`
