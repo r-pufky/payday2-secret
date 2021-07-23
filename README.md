@@ -94,7 +94,7 @@ These are listed here with translations:
    `From a well guarded transport the Four Thieves found out about a secret
     shipment containing a valuable weapon.`
 
-1. [We’re Gonna Need a Bigger Boat]("Plaques/We’re%20Gonna%20Need%20a%20Bigger%20Boat%20-%20As%20The%20four%20thieves%20stole%20the%20valuable%20weapon%20they%20also%20took%20all%20the%20munitions%20they%20could%20find.jpg") | 
+1. [We’re Gonna Need a Bigger Boat]("Plaques/We’re%20Gonna%20Need%20a%20Bigger%20Boat%20-%20As%20The%20four%20thieves%20stole%20the%20valuable%20weapon%20they%20also%20took%20all%20the%20munitions%20they%20could%20find.jpg")
 
    Translation  | Achievement
    ------------ | -------------
@@ -115,10 +115,11 @@ These are listed here with translations:
    `Great value rained from the sky and the four thieves opened any packages in
     their quest for riches`
 
-1. [Let’s do th...]("Plaques/Let’s do th... - The four thieves stole a valuable head ornament so fast that no one had a chance to react.jpg")
+1. [Let’s do th...]("Plaques/Let’s%20do%20th...%20-%20The%20four%20thieves%20stole%20a%20valuable%20head%20ornament%20so%20fast%20that%20no%20one%20had%20a%20chance%20to%20react.jpg")
 
-   `The four thieves stole a valuable head ornament so fast that no one had a
-    chance to react.`
+   Translation  | Achievement
+   ------------ | -------------
+   `The four thieves stole a valuable head ornament so fast that no one had a chance to react.` | `In the Ukrainian Job, complete the heist within 35 seconds.`
 
 1. They Don't Pay Us Enough
 
@@ -139,10 +140,11 @@ These are listed here with translations:
    `As the snow fell, the fours thieves attacked a large store and took
     everything of value.`
 
-1. [Out of bounds]("Plaques/Out of bounds - The four thieves were surrounded on the docks but they kept their enemies away from the loot until it was all sent away.jpg")
+1. [Out of bounds]("Plaques/Out%20of%20bounds%20-%20The%20four%20thieves%20were%20surrounded%20on%20the%20docks%20but%20they%20kept%20their%20enemies%20away%20from%20the%20loot%20until%20it%20was%20all%20sent%20away.jpg")
 
-   `The four thieves were surrounded on the docks but they kept their enemies
-    away from the loot until it was all sent away`
+   Translation  | Achievement
+   ------------ | -------------
+   `The four thieves were surrounded on the docks but they kept their enemies away from the loot until it was all sent away` | `On day 2 of the Watchdogs job, secure 12 bags without letting any law enforcer enter the warehouse on the OVERKILL difficulty or above.`
 
 1. Lord of War
 
@@ -154,45 +156,50 @@ These are listed here with translations:
    `In an old abandoned house the four thieves made as much blue as they could
     with the resources available.`
 
-1. [Doctor Fantastic]("Plaques/Doctor Fantastic - The four thieves with all their wit could identify the mechanism they needed to steal with the greatest of ease.jpg")
+1. [Doctor Fantastic]("Plaques/Doctor%20Fantastic%20-%20The%20four%20thieves%20with%20all%20their%20wit%20could%20identify%20the%20mechanism%20they%20needed%20to%20steal%20with%20the%20greatest%20of%20ease.jpg")
 
-   `The four thieves with all their wit could identify the mechanism they needed
-    to steal with the greatest of ease.`
+   Translation  | Achievement
+   ------------ | -------------
+   `The four thieves with all their wit could identify the mechanism they needed to steal with the greatest of ease.` | `On day 2 of the Big Oil job, complete the heist with the first engine being correct.`
 
 1. I Wasn't Even There!
 
    `Under the cover of darkness the four thieves quietly stole the valuable
     metal and replaced it with white dust.`
 
-1. [I'm A Swinger]("Plaques/I'm A Swinger - The four thieves influenced the world around them and changed the course of society without anyone ever finding out.jpg")
+1. [I'm A Swinger]("Plaques/I'm%20A%20Swinger%20-%20The%20four%20thieves%20influenced%20the%20world%20around%20them%20and%20changed%20the%20course%20of%20society%20without%20anyone%20ever%20finding%20out.jpg")
 
-   `The four thieves influenced the world around them and changed the course of
-   society without anyone ever finding out.`
+   Translation  | Achievement
+   ------------ | -------------
+   `The four thieves influenced the world around them and changed the course of society without anyone ever finding out.` | `In the Election Day job, complete the heist in stealth and swing the votes to the republican favor.`
 
 1. Don't bring the Heat
 
    `The four thieves robbed the largest bank ever built without alerting the
     law.`
 
-1. [Walk Faster]("Plaques/Walk Faster - A house full of thugs and low lifes could not stop the four thieves from reaching their target.jpg")
+1. [Walk Faster]("Plaques/Walk%20Faster%20-%20A%20house%20full%20of%20thugs%20and%20low%20lifes%20could%20not%20stop%20the%20four%20thieves%20from%20reaching%20their%20target.jpg")
 
-   `A house full of thugs and low lifes could not stop the four thieves from
-    reaching their target.`
+   Translation  | Achievement
+   ------------ | -------------
+   `A house full of thugs and low lifes could not stop the four thieves from reaching their target.` | `In day 2 of the Hotline Miami job, reach the Commissar's apartment in under 210 seconds on the OVERKILL difficulty or above. Unlocks the "Rasmus" mask, "Tactical Foregrip" and the "Ergonomic Stock" for the Uzi submachine gun, "Chromescape" material and "Palmtrees" pattern.`
 
 1. Watch The Power Switch!
 
    `The four thieves held their ground as their friend worked and because of
     their efforts he was completely uninterrupted.`
 
-1. [Silent But Deadly]("Plaques/Silent But Deadly - When the four thieves were betrayed their revenge was precise and quiet no one knew they had been there until it was too late.jpg")
+1. [Silent But Deadly]("Plaques/Silent%20But%20Deadly%20-%20When%20the%20four%20thieves%20were%20betrayed%20their%20revenge%20was%20precise%20and%20quiet%20no%20one%20knew%20they%20had%20been%20there%20until%20it%20was%20too%20late.jpg")
 
-   `When the four thieves were betrayed their revenge was precise and quiet no
-    one knew they had been there until it was too late.`
+   Translation  | Achievement
+   ------------ | -------------
+   `When the four thieves were betrayed their revenge was precise and quiet no one knew they had been there until it was too late.` | `Complete the Hoxton Revenge job without triggering the alarm.`
 
-1. [Cat Burglar]("Plaques/Cat Burglar - The four thieves stole a rare rock of great value and importance without anyone noticing that they were there.jpg")
+1. [Cat Burglar]("Plaques/Cat%20Burglar%20-%20The%20four%20thieves%20stole%20a%20rare%20rock%20of%20great%20value%20and%20importance%20without%20anyone%20noticing%20that%20they%20were%20there.jpg")
 
-   `The four thieves stole a rare rock of great value and importance without
-    anyone noticing that they were there.`
+   Translation  | Achievement
+   ------------ | -------------
+   `The four thieves stole a rare rock of great value and importance without anyone noticing that they were there.` | `In The Diamond job, complete the heist without triggering the alarm. Unlocks "The Cursed One" mask, "Sand" material and "Hieroglyphs" pattern.`
 
 1. High Roller
 
@@ -204,9 +211,11 @@ These are listed here with translations:
    `By the docks the four thieves went about their business without
     interruptions.`
 
-1. [Pump It Up]("Plaques/Pump It Up - In the forest the four thieves kept the pipe from their river intact.jpg")
+1. [Pump It Up]("Plaques/Pump%20It%20Up%20-%20In%20the%20forest%20the%20four%20thieves%20kept%20the%20pipe%20from%20their%20river%20intact.jpg")
 
-   `In the forest the four thieves kept the pipe from their river intact.`
+   Translation  | Achievement
+   ------------ | -------------
+   `In the forest the four thieves kept the pipe from their river intact.` | `In The Bomb: Forest job, do not let the cops disconnect the water hose while you are using the river water pump. Unlocks the "Tech Lion" mask, "Marble Rock" material and "Lion Game Lion" pattern.`
 
 1. Settling a Scar
 
@@ -217,14 +226,17 @@ These are listed here with translations:
    `As the party was in full swing the four thieves went about their business
     and none ever knew they were there.`
 
-1. [Dr. Evil]("Plaques/Dr. Evil - The four thieves once created for themselves a large fortune.jpg")
+1. [Dr. Evil]("Plaques/Dr.%20Evil%20-%20The%20four%20thieves%20once%20created%20for%20themselves%20a%20large%20fortune.jpg")
 
-   `The four thieves once created for themselves a large fortune.`
+   Translation  | Achievement
+   ------------ | -------------
+   `The four thieves once created for themselves a large fortune.` | `On the Counterfeit job, print and secure $1,000,000 worth of counterfeit money in the Helicopter. Unlocks the "Viking" mask, "Houndstooth" material and "Fenris" pattern.`
 
-1. [OVERDRILL]("Plaques/Overdrill - The hidden vault was hard to find and difficult to open but the four thieves worked together and claimed the legendary treasure.jpg")
+1. [OVERDRILL]("Plaques/Overdrill%20-%20The%20hidden%20vault%20was%20hard%20to%20find%20and%20difficult%20to%20open%20but%20the%20four%20thieves%20worked%20together%20and%20claimed%20the%20legendary%20treasure.jpg")
 
-   `The hidden vault was hard to find and difficult to open but the four thieves
-    worked together and claimed the legendary treasure.`
+   Translation  | Achievement
+   ------------ | -------------
+   `The hidden vault was hard to find and difficult to open but the four thieves worked together and claimed the legendary treasure.` | `In the First World Bank job, solve the PAYDAY: The Heist secret on the Death Wish difficulty or above and enter the OVERVAULT.`
 
 1. Remember, No Russian
 
@@ -236,10 +248,11 @@ These are listed here with translations:
    `The four thieves stole goats and hidden treasures once the deed was done
     they quickly made their escape together.`
 
-1. [Santa Slays Slackers]("Plaques/Santa Slays Slackers - The four thieves guarded the packer as they prepared the next shipment even as the law came charging in.jpg")
+1. [Santa Slays Slackers]("Plaques/Santa%20Slays%20Slackers%20-%20The%20four%20thieves%20guarded%20the%20packer%20as%20they%20prepared%20the%20next%20shipment%20even%20as%20the%20law%20came%20charging%20in.jpg")
 
-   `The four thieves guarded the packer as they prepared the next shipment even
-    as the law came charging in.`
+   Translation  | Achievement
+   ------------ | -------------
+   `The four thieves guarded the packer as they prepared the next shipment even as the law came charging in.` | `In the Santa's Workshop job, keep all the elves alive for 30 minutes after the first assault starts on the OVERKILL difficulty or above.`
 
 1. Gone in 240 seconds
 
@@ -251,44 +264,49 @@ These are listed here with translations:
    `The four thieves attacked a train in motion they quickly made it to the last
     cars to see what they were after and made it back to their escape.`
 
-1. [Quick Draw]("Plaques/Quick Draw - A room full of riches, a house full of thugs. The four thieves were quick and deadly and before anyone knew it all the thugs were dead.jpg")
+1. [Quick Draw]("Plaques/Quick%20Draw%20-%20A%20room%20full%20of%20riches,%20a%20house%20full%20of%20thugs.%20The%20four%20thieves%20were%20quick%20and%20deadly%20and%20before%20anyone%20knew%20it%20all%20the%20thugs%20were%20dead.jpg")
 
-   `A room full of riches, a house full of thugs. The four thieves were quick
-    and deadly and before anyone knew it all the thugs were dead.`
+   Translation  | Achievement
+   ------------ | -------------
+   `A room full of riches, a house full of thugs. The four thieves were quick and deadly and before anyone knew it all the thugs were dead.` | `In the Panic Room job, kill all gangsters within 60 seconds after masking up on the OVERKILL difficulty or above.`
 
-1. [A Rendezvous With Destiny]("Plaques/A Rendezvous With Destiny - The four thieves made their way through the abandoned building and quickly found their charge.jpg")
+1. [A Rendezvous With Destiny]("Plaques/A%20Rendezvous%20With%20Destiny%20-%20The%20four%20thieves%20made%20their%20way%20through%20the%20abandoned%20building%20and%20quickly%20found%20their%20charge.jpg")
 
-   `The four thieves made their way through the abandoned building and quickly
-    found their charge.`
+   Translation  | Achievement
+   ------------ | -------------
+   `The four thieves made their way through the abandoned building and quickly found their charge.` | `On the Brooklyn 10-10 job, reach Charon within 6 minutes on the OVERKILL difficulty or above. Unlocks the "Lady Liberty" mask, "Underground Neon" material and "Baba Yaga" pattern.`
 
 1. Pacifish
 
    `The four thieves did not spill blood while on the boat.`
 
-1. [Not Even Once]("Plaques/Not Even Once - The four thieves interrupted a deal of great value but even though they were surrounded and cornered no one fell in the onslaught that followed.jpg")
+1. [Not Even Once]("Plaques/Not%20Even%20Once%20-%20The%20four%20thieves%20interrupted%20a%20deal%20of%20great%20value%20but%20even%20though%20they%20were%20surrounded%20and%20cornered%20no%20one%20fell%20in%20the%20onslaught%20that%20followed.jpg")
 
-   `The four thieves interrupted a deal of great value but even though they were
-    surrounded and cornered no one fell in the onslaught that followed.`
+   Translation  | Achievement
+   ------------ | -------------
+   `The four thieves interrupted a deal of great value but even though they were surrounded and cornered no one fell in the onslaught that followed.` | `Complete the Undercover job on the OVERKILL difficulty or above without anyone in your crew getting downed or cuffed.`
 
-1. [Making a Statement]("Plaques/Making a Statement - Surrounded, the four thieves overcame grave danger and escaped the house of massacre.jpg")
+1. [Making a Statement]("Plaques/Making%20a%20Statement%20-%20Surrounded,%20the%20four%20thieves%20overcame%20grave%20danger%20and%20escaped%20the%20house%20of%20massacre.jpg")
 
-   `Surrounded, the four thieves overcame grave danger and escaped the house of
-    massacre.`
+   Translation  | Achievement
+   ------------ | -------------
+   `Surrounded, the four thieves overcame grave danger and escaped the house of massacre.` | `Finish the Slaughterhouse job on the OVERKILL difficulty or above without anyone killing a single sniper.`
 
 1. Clean House
 
    `The four thieves snuck into the mountain keep and they stole everything of
     value kept there.`
 
-1. [1...2...3... JUMP!]("Plaques/1...2...3... JUMP! - On the day they came in to the word flying through the heavens the four thieves all fell together.jpg")
+1. [1...2...3... JUMP!]("Plaques/1...2...3...%20JUMP!%20-%20On%20the%20day%20they%20came%20in%20to%20the%20word%20flying%20through%20the%20heavens%20the%20four%20thieves%20all%20fell%20together.jpg")
 
    `On the day they came in to the word flying through the heavens the four
     thieves all fell together.`
 
-1. [It's Nice To Be Nice]("Plaques/It's Nice To Be Nice - The four thieves were surrounded in the street but they fought their way through the onslaught of enemies and not a single innocent was harmed.jpg")
+1. [It's Nice To Be Nice]("Plaques/It's%20Nice%20To%20Be%20Nice%20-%20The%20four%20thieves%20were%20surrounded%20in%20the%20street%20but%20they%20fought%20their%20way%20through%20the%20onslaught%20of%20enemies%20and%20not%20a%20single%20innocent%20was%20harmed.jpg")
 
-   `The four thieves were surrounded in the street but they fought their way
-    through the onslaught of enemies and not a single innocent was harmed.`
+   Translation  | Achievement
+   ------------ | -------------
+   `The four thieves were surrounded in the street but they fought their way through the onslaught of enemies and not a single innocent was harmed.` | `Complete the Heat Street job without killing any civilians on the Hard difficulty or above.`
 
 1. Attacked Helicopter
 
@@ -334,15 +352,17 @@ These are listed here with translations:
    `When the four thieves came to the aid of their long lost friend they knew
     darkness was their ally.`
 
-1. [Keeping the Cool]("Plaques/Keeping the Cool - In a place of healing the four thieves stole a vial of vile blood with speed and threats they keep all the people under control.jpg")
+1. [Keeping the Cool]("Plaques/Keeping%20the%20Cool%20-%20In%20a%20place%20of%20healing%20the%20four%20thieves%20stole%20a%20vial%20of%20vile%20blood%20with%20speed%20and%20threats%20they%20keep%20all%20the%20people%20under%20control.jpg")
 
-   `In a place of healing the four thieves stole a vial of vile blood with speed
-    and threats they keep all the people under control.`
+   Translation  | Achievement
+   ------------ | -------------
+   `In a place of healing the four thieves stole a vial of vile blood with speed and threats they keep all the people under control.` | `Complete the No Mercy job on the hard difficulty or above without raising the alarm before reaching the ICU.`
 
-1. [The Pacifist]("Plaques/The Pacifist - While Stealing A bomb from a train the four thieves did not spill a single drop of blood.jpg")
+1. [The Pacifist]("Plaques/The%20Pacifist%20-%20While%20Stealing%20A%20bomb%20from%20a%20train%20the%20four%20thieves%20did%20not%20spill%20a%20single%20drop%20of%20blood.jpg")
 
-   `While Stealing A bomb from a train the four thieves did not spill a single
-    drop of blood`
+   Translation  | Achievement
+   ------------ | -------------
+   `While Stealing A bomb from a train the four thieves did not spill a single drop of blood` | `Complete the Murky Station job without anyone in the crew killing anyone. Unlocks the "Augmentation" mask, "Spaceship" material and "Squares" pattern.`
 
 Complete **whitehouse** on **overkill or higher** mission as normal. Once in the
 bunker, cut left and see painting. If requirements are met it will glow gold.
