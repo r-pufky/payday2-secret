@@ -2,7 +2,7 @@ Payday 2 シークレット
 ---------------
 PD2のシークレットを解くための情報。
 
-**日本語** | [English](README.md)  
+**日本語** | [English](README.md)
 この日本語訳は情報が古くなる可能性があります。最新版を確認するには英語の原版をご覧ください。
 
 **ネタバレが含まれています**
@@ -48,7 +48,7 @@ PD2のシークレットを解くための情報。
  * medallionを拾いcoffersに使用することでcoffersを開ける事ができます
 
 ### セーフハウスの"Obsidian"実績を解除するためのリスト
-Obsidian Tabletによって指示された実績リストを解除する必要があります。  
+Obsidian Tabletによって指示された実績リストを解除する必要があります。
 必要な全ての展示アイテムを手に入れたら(上記)、Scarfaceのオフィスに行き次の順番でピアノのキーを弾いて(ハンドガンで撃って)ください。
 
 ![ピアノのキー](piano-keys.png)
@@ -57,8 +57,8 @@ Obsidian Tabletによって指示された実績リストを解除する必要�
 デバイスにインタラクトすることで暗号化された謎が明らかになります。
 これらはシークレットを行うために必要な実績であることが分かります。
 
-表示される**20**個のリストは、それぞれのアカウントで**それぞれ違います** (これは自分で解読する必要があることを意味しています)  
-もしくは、安全を期すために明らかになっている**57**個全てを行うと良いでしょう。  
+表示される**20**個のリストは、それぞれのアカウントで**それぞれ違います** (これは自分で解読する必要があることを意味しています)
+もしくは、安全を期すために明らかになっている**57**個全てを行うと良いでしょう。
 **注意**: ピアノを弾き直すたびに、20個のリストは再抽選されます。
 
 以下のリストは解読されたものです:
@@ -88,7 +88,7 @@ Obsidian Tabletによって指示された実績リストを解除する必要�
    `The four thieves guarded the innocent until they made their escape with the
     valuable bounty from the house of carbon.`
 
-1. But Wait - There’s More
+1. But Wait - There’s More!
 
    `From a well guarded transport the Four Thieves found out about a secret
     shipment containing a valuable weapon.`
@@ -342,8 +342,8 @@ Obsidian Tabletによって指示された実績リストを解除する必要�
    `While Stealing A bomb from a train the four thieves did not spill a single
     drop of blood.`
 
-まず**whitehouse**を**overkill以上**で通常クリアしてください。  
-バンカー(エアロックの先)に入った後、左の部屋に入り絵を見て下さい。 必要条件が満たされている場合は絵が金色に輝いています。  
+まず**whitehouse**を**overkill以上**で通常クリアしてください。
+バンカー(エアロックの先)に入った後、左の部屋に入り絵を見て下さい。 必要条件が満たされている場合は絵が金色に輝いています。
 絵を取り外して下さい。 ホストはC4を受け取り、部屋に入ってエレベーターを降りる事ができます。
 
 4つのレバーとホイールがある部屋に辿り着くでしょう。外側のホイールは謎を表しており、内側のホイールは謎に対する答えを入力する場所です。

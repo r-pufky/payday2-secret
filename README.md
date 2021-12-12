@@ -55,7 +55,7 @@ the piano in Scarface's office and hit the following keys in order.
 
 This will stop the device from rotating. Interacting with the device will reveal
 ciphered riddles. These turn out to be required achievements to enable the
-secret.  
+secret.
 **Note**: Every time you hit the piano keys, these required achievements list are re-rolled.
 
 You can translate all **20** displayed for your account which appears to be
@@ -89,7 +89,7 @@ These are listed here with translations:
    `The four thieves guarded the innocent until they made their escape with the
     valuable bounty from the house of carbon.`
 
-1. But Wait - There’s More
+1. But Wait - There’s More!
 
    `From a well guarded transport the Four Thieves found out about a secret
     shipment containing a valuable weapon.`
