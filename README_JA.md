@@ -438,7 +438,7 @@ That of the watcher which will be consumed in the voice of SUMER
 ![ZUMRU](zumru.png)
 
 ```
-I can be trusted to guard the great wealth of the land but do not trust my WORDS
+I am trusted to guard the great wealth of the land but do not trust my WORDS
 ```
  * APATE
 
