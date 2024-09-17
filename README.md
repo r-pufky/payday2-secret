@@ -111,7 +111,7 @@ These are listed here with translations:
 
 1. What’s in the Box?
 
-   `Great value rained from the sky and the four thieves opened any packages in
+   `Great value rained from the sky and the four thieves opened many packages in
     their quest for riches.`
 
 1. Let’s do th...
