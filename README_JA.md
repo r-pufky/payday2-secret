@@ -103,7 +103,7 @@ Obsidian Tabletによって指示された実績リストを解除する必要�
    `When the four thieves were asked to destroy a large store their actions were
     as fast as they were devastating.`
 
-1. Platinum Card (もしくは: “Yeah, He’s a Gold Digger”)
+1. Stomping Grounds (もしくは: Platinum Card / “Yeah, He’s a Gold Digger”)
 
    `The four thieves strolled down the street cleaning out each stop they passed
     despite every effort the law couldn’t stop them.`

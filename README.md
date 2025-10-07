@@ -104,7 +104,7 @@ These are listed here with translations:
    `When the four thieves were asked to destroy a large store their actions were
     as fast as they were devastating.`
 
-1. Platinum Card (Or: “Yeah, He’s a Gold Digger”)
+1. Stomping Grounds (Or: Platinum Card / “Yeah, He’s a Gold Digger”)
 
    `The four thieves strolled down the street cleaning out each stop they passed
     despite every effort the law couldn’t stop them.`
